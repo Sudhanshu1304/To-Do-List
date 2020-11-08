@@ -97,7 +97,7 @@ completed we can remove it using ***Done*** Button.
 <tr>
 <th>
 
-<img src="images/completed.png"  height="400px" width="500px">
+<img src="images/completed.png"  height="400px" width="480px">
 
 </th>
 <th>
