@@ -63,7 +63,8 @@ Except the "***Completed***"  section every other list can be deleted
 </th>
 <th>
 
-This section is about creating New List . 
+This section is about creating New List .Ones all the tasks have been added
+Enter ***Done*** and the new list would be created.
 
 </th>
 </tr>
@@ -116,7 +117,7 @@ If the List itself is deleted then it is not stored here.
 <tr>
 <th>
 
-<img src="images/database.png"  height="500px" width="600px">
+<img src="images/database.png"  height="500px" width="680px">
 
 </th>
 <th>
