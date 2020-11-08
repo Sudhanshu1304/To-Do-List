@@ -50,3 +50,64 @@ Except the "***Completed***"  section every other list can be deleted
 </th>
 </tr>
 </table>
+
+
+#### Particular List
+
+<table>
+<tr>
+<th>
+
+<img src="images/Tests.png"  height="400px" width="500px">
+
+</th>
+<th>
+
+This is the section where we can add all our Tasks .And one's
+completed we can remove it using ***Done*** Button.
+
+</th>
+</tr>
+</table>
+
+
+#### Completed Tasks
+
+<table>
+<tr>
+<th>
+
+<img src="images/completed.png"  height="400px" width="500px">
+
+</th>
+<th>
+
+All your completed tasks are Stored here.
+If the List itself is deleted then it is not stored here.
+ 
+
+</th>
+</tr>
+</table>
+
+
+#### Database
+
+<table>
+<tr>
+<th>
+
+<img src="images/database.png"  height="400px" width="500px">
+
+</th>
+<th>
+
+In the Backend all of our data is stored here in 
+a text format.
+If data is directly deleted from here it can not be restored
+
+</th>
+</tr>
+</table>
+
+
