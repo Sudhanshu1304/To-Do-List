@@ -51,6 +51,25 @@ Except the "***Completed***"  section every other list can be deleted
 </tr>
 </table>
 
+#### Creating New List
+
+
+<table>
+<tr>
+<th>
+
+<img src="images/newlist.png"  height="400px" width="500px">
+
+</th>
+<th>
+
+This section is about creating New List . 
+
+</th>
+</tr>
+</table>
+
+
 
 #### Particular List
 
@@ -97,14 +116,14 @@ If the List itself is deleted then it is not stored here.
 <tr>
 <th>
 
-<img src="images/database.png"  height="400px" width="500px">
+<img src="images/database.png"  height="500px" width="600px">
 
 </th>
 <th>
 
 In the Backend all of our data is stored here in 
 a text format.
-If data is directly deleted from here it can not be restored
+If data is directly deleted from here it can not be restored.
 
 </th>
 </tr>
