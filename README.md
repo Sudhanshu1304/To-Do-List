@@ -33,4 +33,4 @@ on the dashboard under the section ***COMPLETED***.
 
 #### Main Window
 
-![](/images/main.png)
+<img src="images/main.png"  height="400px" width="300px">
