@@ -33,4 +33,18 @@ on the dashboard under the section ***COMPLETED***.
 
 #### Main Window
 
-<img src="images/main.png"  height="300px" width="300px">
+<table>
+<tr>
+<th>
+
+<img src="images/main.png"  height="400px" width="300px">
+
+</th>
+<th>
+
+In this Section we can Add new list or even remove the Unwanted List
+Except the "***Completed***"  section every other list can be deleted
+
+</th>
+</tr>
+</table>
