@@ -7,7 +7,7 @@
 
 Many times it happens that while attending lectures or even in general
 we come across many Tasks to do ,In such case's this application comes in handy
-Just create a bat file of this program then we can use this just like other Applications
+Just create a bat file of this program , we can use this just like other Applications
 
 <br><br>
 
@@ -42,10 +42,10 @@ on the dashboard under the section ***COMPLETED***.
 </th>
 <th>
 
-In this Section we can 
-Add new list or even remove 
-the Unwanted List
-Except the "***Completed***"  section every other list can be deleted
+In this section we can 
+add new list or delete 
+the unwanted List.
+Except  "***Completed***"  section every other list can be deleted
 
 </th>
 </tr>
@@ -124,7 +124,7 @@ If the List itself is deleted then it is not stored here.
 
 In the Backend all of our data is stored here in 
 a text format.
-If data is directly deleted from here it can not be restored.
+If data is directly deleted from the database it cannot be restored.
 
 </th>
 </tr>
