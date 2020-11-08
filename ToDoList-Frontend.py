@@ -1,9 +1,6 @@
-from DataBase import Read, Write2, Write3
+from Database import Read , Write2,Write3
 from tkinter import *
 from tkinter import ttk
-import PIL  as Im
-from PIL import ImageTk
-import time
 import random
 
 ################################################                            ############################################

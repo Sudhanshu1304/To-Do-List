@@ -1,4 +1,4 @@
-File="D:/User/Desktop/ToDOLIST/text.txt"
+File="Enter the File path here "
 
 def Count_tab(value):
     count=0
