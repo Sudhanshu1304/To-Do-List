@@ -37,12 +37,14 @@ on the dashboard under the section ***COMPLETED***.
 <tr>
 <th>
 
-<img src="images/main.png"  height="400px" width="300px">
+<img src="images/main.png"  height="400px" width="500px">
 
 </th>
 <th>
 
-In this Section we can Add new list or even remove the Unwanted List
+In this Section we can 
+Add new list or even remove 
+the Unwanted List
 Except the "***Completed***"  section every other list can be deleted
 
 </th>
