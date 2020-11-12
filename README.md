@@ -117,7 +117,7 @@ If the List itself is deleted then it is not stored here.
 <tr>
 <th>
 
-<img src="images/database.png"  height="500px" width="680px">
+<img src="images/database.png"  height="500px" width="780px">
 
 </th>
 <th>
